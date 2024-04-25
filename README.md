@@ -2,7 +2,7 @@
 
 <h2>:computer:Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/joshmadakore)
+  - [Active Directory Home Lab](https://github.com/jamesdelougheryprojectportfolio/ActiveDirectoryLab)
 
 
 <h2>:page_with_curl:Certifications</h2>
