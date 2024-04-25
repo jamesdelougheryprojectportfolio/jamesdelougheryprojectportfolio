@@ -1,6 +1,6 @@
 <h1>Hi, I'm James! </h1>
 
-<h2>:computer:Cybersecurity Projects:</h2>
+<h2>:computer:IT Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/jamesdelougheryprojectportfolio/ActiveDirectoryLab)
 
