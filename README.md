@@ -3,6 +3,7 @@
 <h2>:computer:IT Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/jamesdelougheryprojectportfolio/ActiveDirectoryLab)
+  - [Extracting and Exploring IoT Firmware](https://github.com/jamesdelougheryprojectportfolio/IoTFirmwareExtraction)
 
 
 <h2>:page_with_curl:Certifications</h2>
